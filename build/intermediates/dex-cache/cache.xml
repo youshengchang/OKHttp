@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/youshengchang/AndroidStudioProjects/OKHttp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/OKHttp/app/build/intermediates/pre-dexed/debug/classes-ed0186519f059481d1c64208e0aa867d2456e050.jar" />
+    </item>
+    <item
+        jar="/Users/youshengchang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/1.5.4/7b7c9e5a6a0d69a1571968805dc1d1f19b57da26/okhttp-1.5.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7b7c9e5a6a0d69a1571968805dc1d1f19b57da26">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/OKHttp/app/build/intermediates/pre-dexed/debug/okhttp-1.5.4-e71b5968f23d4103470cf11500e9a24f77090452.jar" />
+    </item>
+    <item
+        jar="/Users/youshengchang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/OKHttp/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-da8ad99330849f3485026c7bb7cd5863a0e9c663.jar" />
+    </item>
+    <item
+        jar="/Users/youshengchang/AndroidStudioProjects/OKHttp/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/youshengchang/AndroidStudioProjects/OKHttp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-4cb3592343533ee3f784a72fca757bf1c22bf4f4.jar" />
+    </item>
+
+</items>
